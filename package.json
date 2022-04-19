@@ -1,0 +1,16 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "proyecto de prueba de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^9.1.0",
+    "lodash": "~4.17.21",
+    "moment": "~2.29.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
